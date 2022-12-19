@@ -12,7 +12,7 @@ import requests, colorama, cursor; from capmonster_python import HCaptchaTask
 from colorama import *
 from pystyle import *
 import hashlib
-System.Title("Axi Token Generator ^| Made By Oniree")
+System.Title("Axi Token Generator ^| Made By Onirz")
 axi = """
                                                      ███
                            ▄████████ ▀████    ▐████▀   
